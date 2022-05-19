@@ -18,6 +18,18 @@
   - firstname: ["Angela", "A."]
     url: https://scholar.google.com/citations?user=TLZR9zgAAAAJ
 
+"Trappolini":
+  - firstname: ["Giovanni", "G."]
+    url: https://scholar.google.com/citations?user=Jldp2mYAAAAJ
+
+"Barnabò":
+  - firstname: ["Giorgio", "G."]
+    url: https://scholar.google.com/citations?user=CGKnZMkAAAAJ
+
+"Lastilla":
+  - firstname: ["Lorenzo", "L."]
+    url: https://scholar.google.com/citations?user=Fhr3kFYAAAAJ
+
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
