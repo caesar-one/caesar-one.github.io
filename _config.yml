@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🦾 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://caesar.one # the base hostname & protocol for your site
 baseurl: #/al-folio # the subpath of your site, e.g. /blog/
@@ -29,7 +29,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -85,9 +85,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: NLProc Pills # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: enjoy some AI insights!
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -116,7 +116,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 5
