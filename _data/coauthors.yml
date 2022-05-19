@@ -1,14 +1,22 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Navigli":
+  - firstname: ["Roberto", "R."]
+    url: https://scholar.google.com/citations?user=BsgVJ-EAAAAJ
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Conia":
+  - firstname: ["Simone", "S."]
+    url: https://scholar.google.com/citations?user=S1tqbTcAAAAJ
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Silvestri":
+  - firstname: ["Fabrizio", "F."]
+    url: https://scholar.google.com/citations?user=pi985dQAAAAJ
+
+"Petroni":
+  - firstname: ["Fabio", "F."]
+    url: https://scholar.google.com/citations?user=vxQc2L4AAAAJ
+
+"Fan":
+  - firstname: ["Angela", "A."]
+    url: https://scholar.google.com/citations?user=TLZR9zgAAAAJ
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
