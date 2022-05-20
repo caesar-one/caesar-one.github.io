@@ -6,15 +6,15 @@ layout: default
       <div class="post">
         <header class="post-header">
          <div class="row align-items-center">
-         <div class="col-md-6">
+         <div class="col-md-7">
           <h1 class="post-title">
            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
           </h1>
          </div>
-               <div class="col-md-6 social">
-                     <span class="contact-icon text-center">
+               <div class="col-md-5 social">
+                     <div class="contact-icons text-center navbar-brand" style="font-size:1.7rem !important;">
                         {% include social.html %}
-                     </span>
+                     </div>
                </div>
          </div>
           <p class="desc">{{ page.subtitle }}</p>
