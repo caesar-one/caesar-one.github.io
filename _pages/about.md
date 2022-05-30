@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student at <a href='http://nlp.uniroma1.it/'>Sapienza NLP</a> under the supervision of <a href='https://www.diag.uniroma1.it/navigli/'>Prof. Roberto Navigli</a>
+subtitle: Deep Learning enthusiast, working hard to bring you a safe and smart <a href='https://en.wikipedia.org/wiki/Artificial_intelligence'>AI</a>.
 
 profile:
   align: right
@@ -14,10 +14,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi 
+Hi! :wave:
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a second-year PhD student at the [Sapienza Natural Language Processing group](http://nlp.uniroma1.it), advised by [Roberto Navigli](https://www.diag.uniroma1.it/navigli/). My main research focuses on Sentiment Analysis and Entity Linking. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#I don't remember a day when I wasn't passionate about computer science, and all its implications. My interest has ranged from video editing, to web design, to artificial intelligence
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I like to teach machines how to [understand](https://en.wikipedia.org/wiki/Natural-language_understanding) human language. The core idea is to help people in their work and create new opportunities.
+
+I don't remember a day in which I was not passionate about computer science and, even more, all its implications. My interest has ranged from programming to graphics, through web development, even video editing, to then lead to artificial intelligence. I assure that this is my final interest... Well, maybe!
