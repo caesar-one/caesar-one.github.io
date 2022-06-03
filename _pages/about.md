@@ -5,7 +5,7 @@ permalink: /
 subtitle: Deep Learning enthusiast, working hard to bring you a safe and smart <a href='https://en.wikipedia.org/wiki/Artificial_intelligence'>AI</a>.
 
 profile:
-  align: left
+  align: right
   image: caesar.png
   address: <p>Ph.D. student @ <a href='http://nlp.uniroma1.it/'>Sapienza NLP</a> group</p>
 
