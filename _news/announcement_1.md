@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-11-01 
 inline: true
 ---
 
-A simple inline announcement.
+Starting a Ph.D. in Natural Language Processing + Deep Learning at the [Sapienza NLP Group](http://nlp.uniroma1.it)!
