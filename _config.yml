@@ -10,7 +10,6 @@ email: campagnano@di.uniroma1.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hi! My name is Cesare Campagnano, welcome to my webpage!
 footer_text: >
-  I do not use cookies, so there is no need to show you any annoying popups.
   Proudly powered by <a href="https://caesar.one/" target="_blank">caesar.one</a>.
 keywords: cesare-campagnano, nlp, natural-language-processing, deep-learning, sentiment-analysis, entity-linking  # add your own keywords or leave empty
 
