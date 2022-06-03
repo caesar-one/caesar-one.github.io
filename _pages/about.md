@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! :wave:
 
-I'm a second-year PhD student at the [Sapienza NLP Group](http://nlp.uniroma1.it/), advised by [Roberto Navigli](https://www.diag.uniroma1.it/navigli/). My main research focuses on Sentiment Analysis and Entity Linking. 
+I'm a second-year PhD student at the [Sapienza Natural Language Processing group](http://nlp.uniroma1.it/), advised by [Roberto Navigli](https://www.diag.uniroma1.it/navigli/). My main research focuses on Sentiment Analysis and Entity Linking. 
 
 I don't remember a day in which I was not passionate about computer science and, even more, all its implications. My interests have ranged from programming to graphics, through web development, even video editing, finally leading to artificial intelligence. I assure that this is my final interest... Well, maybe!
 
