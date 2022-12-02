@@ -6,7 +6,7 @@ subtitle: Deep Learning enthusiast, working hard to bring you a safe and smart <
 
 profile:
   align: right
-  image: caesar.png
+  image: caesar-chill.jpg
   address: 
 
 news: true  # includes a list of news items
