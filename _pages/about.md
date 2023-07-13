@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi! :wave:
 
-I'm a third-year PhD student at [Sapienza University of Rome](https://www.uniroma1.it/). Currently, I'm an Applied Scientist Intern at [Amazon](https://www.amazon.science/). My main research focuses on Sentiment Analysis and Entity Linking. 
+I'm a third-year PhD student at [Sapienza University of Rome](https://www.uniroma1.it/). I'm an ex Applied Scientist II Intern at [Amazon](https://www.amazon.science/). My main research focuses on Large Language Models and Sentiment Analysis. 
 
 I don't remember a day in which I was not passionate about computer science and, even more, all its implications. My interests have ranged from programming to graphics, through web development, even video editing, finally leading to artificial intelligence. I assure that this is my final interest... Well, maybe!
 
